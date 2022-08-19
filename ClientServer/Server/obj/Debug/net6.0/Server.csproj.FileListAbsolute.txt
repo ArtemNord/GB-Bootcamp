@@ -1,0 +1,15 @@
+D:\GB\GB bootcamp\ClientServer\Server\bin\Debug\net6.0\Server.exe
+D:\GB\GB bootcamp\ClientServer\Server\bin\Debug\net6.0\Server.deps.json
+D:\GB\GB bootcamp\ClientServer\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\GB\GB bootcamp\ClientServer\Server\bin\Debug\net6.0\Server.dll
+D:\GB\GB bootcamp\ClientServer\Server\bin\Debug\net6.0\Server.pdb
+D:\GB\GB bootcamp\ClientServer\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\GB\GB bootcamp\ClientServer\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\GB bootcamp\ClientServer\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\GB\GB bootcamp\ClientServer\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\GB\GB bootcamp\ClientServer\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\GB\GB bootcamp\ClientServer\Server\obj\Debug\net6.0\Server.dll
+D:\GB\GB bootcamp\ClientServer\Server\obj\Debug\net6.0\refint\Server.dll
+D:\GB\GB bootcamp\ClientServer\Server\obj\Debug\net6.0\Server.pdb
+D:\GB\GB bootcamp\ClientServer\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\GB\GB bootcamp\ClientServer\Server\obj\Debug\net6.0\ref\Server.dll

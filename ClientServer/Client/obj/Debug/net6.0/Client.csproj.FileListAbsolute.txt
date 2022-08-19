@@ -1,0 +1,15 @@
+D:\GB\GB bootcamp\ClientServer\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+D:\GB\GB bootcamp\ClientServer\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\GB bootcamp\ClientServer\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\GB\GB bootcamp\ClientServer\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\GB\GB bootcamp\ClientServer\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\GB\GB bootcamp\ClientServer\Client\bin\Debug\net6.0\Client.exe
+D:\GB\GB bootcamp\ClientServer\Client\bin\Debug\net6.0\Client.deps.json
+D:\GB\GB bootcamp\ClientServer\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\GB\GB bootcamp\ClientServer\Client\bin\Debug\net6.0\Client.dll
+D:\GB\GB bootcamp\ClientServer\Client\bin\Debug\net6.0\Client.pdb
+D:\GB\GB bootcamp\ClientServer\Client\obj\Debug\net6.0\Client.dll
+D:\GB\GB bootcamp\ClientServer\Client\obj\Debug\net6.0\refint\Client.dll
+D:\GB\GB bootcamp\ClientServer\Client\obj\Debug\net6.0\Client.pdb
+D:\GB\GB bootcamp\ClientServer\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+D:\GB\GB bootcamp\ClientServer\Client\obj\Debug\net6.0\ref\Client.dll
