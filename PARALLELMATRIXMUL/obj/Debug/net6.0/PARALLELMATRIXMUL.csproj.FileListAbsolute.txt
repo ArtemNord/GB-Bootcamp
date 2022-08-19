@@ -1,0 +1,15 @@
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\bin\Debug\net6.0\PARALLELMATRIXMUL.exe
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\bin\Debug\net6.0\PARALLELMATRIXMUL.deps.json
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\bin\Debug\net6.0\PARALLELMATRIXMUL.runtimeconfig.json
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\bin\Debug\net6.0\PARALLELMATRIXMUL.dll
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\bin\Debug\net6.0\PARALLELMATRIXMUL.pdb
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\obj\Debug\net6.0\PARALLELMATRIXMUL.csproj.AssemblyReference.cache
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\obj\Debug\net6.0\PARALLELMATRIXMUL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\obj\Debug\net6.0\PARALLELMATRIXMUL.AssemblyInfoInputs.cache
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\obj\Debug\net6.0\PARALLELMATRIXMUL.AssemblyInfo.cs
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\obj\Debug\net6.0\PARALLELMATRIXMUL.csproj.CoreCompileInputs.cache
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\obj\Debug\net6.0\PARALLELMATRIXMUL.dll
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\obj\Debug\net6.0\refint\PARALLELMATRIXMUL.dll
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\obj\Debug\net6.0\PARALLELMATRIXMUL.pdb
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\obj\Debug\net6.0\PARALLELMATRIXMUL.genruntimeconfig.cache
+C:\GB\GB_C#\GB Bootcamp\PARALLELMATRIXMUL\obj\Debug\net6.0\ref\PARALLELMATRIXMUL.dll
